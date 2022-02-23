@@ -2,7 +2,8 @@
 - 👀 I’m interested in becoming a good programmer
 - 🌱 I’m currently learning Java/Python/C
 - Please email me at nathanf@andrews.edu
-- [Current Resume](https://github.com/Natndez/Natndez/files/8119669/2022_Resume.1.pdf)
+- [Current Resume](https://github.com/Natndez/Natndez/files/8127734/2022_Resume.pdf)
+
 
 <!---
 Natndez/Natndez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
